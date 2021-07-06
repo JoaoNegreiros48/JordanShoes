@@ -57,3 +57,21 @@
     font-size: 18px;
     line-height: 196.19%;
 }
+
+.infos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#destasques{
+    margin-top: 30px;
+    font-size: 32px;
+    font-weight: 600;
+    color: var(--title);
+}
+#descricao{
+    margin-top: 15px;
+    font-weight: 500;
+    color: #474747;
+}
+
