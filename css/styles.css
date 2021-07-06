@@ -97,3 +97,14 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+footer{
+    width: 100vw;
+    height: 70px;
+    background-color: var(--title);
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
