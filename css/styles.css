@@ -4,4 +4,15 @@
     background-color: var(--bgSite);
     display: flex;
     flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+}
+.descontBar{
+    height: 70px;
+    width: 100%;
+    background-color: var(--title);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: var(--white);
 }
