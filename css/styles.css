@@ -135,3 +135,17 @@ footer{
         width: 50%;
     }
 }
+@media (max-width: 414px){
+    .grid{
+        grid-template-columns: 310px;
+        grid-template-rows: 312px 312px 312px 312px 312px 312px 312px 312px;
+    }
+    .capa{
+        padding-left: 0;
+        align-items: center;
+        justify-content: center;
+    }
+    #descricao{
+        width: 50%;
+    }
+}
