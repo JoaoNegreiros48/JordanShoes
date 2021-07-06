@@ -97,6 +97,11 @@ body{
     align-items: center;
     justify-content: center;
 }
+.grid .iten:hover{
+    opacity: 80%;
+    cursor: pointer;
+}
+
 
 footer{
     width: 100vw;
